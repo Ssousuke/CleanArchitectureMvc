@@ -1,2 +1,2 @@
 # CleanArch
-Arquitetura limpa Exemplo
+Arquitetura limpa exemplo da estruturação de projetos
